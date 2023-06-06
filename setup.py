@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0" # update as per your need
 
-REPO_NAME = "example_pypi"
+REPO_NAME = "IPYNBrenderer"
 AUTHOR_USER_NAME = "SaikumarOfficial"
-SRC_REPO = "example_pypi"
+SRC_REPO = "IPYNBrenderer"
 AUTHOR_EMAIL = "sai680513@gmail.com"
 
 setuptools.setup(
