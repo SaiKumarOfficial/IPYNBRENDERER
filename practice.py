@@ -1,2 +1,2 @@
-from IPYNBrenderer.youtube import render_YouTube_Video
+from IPYNBrendererYT.youtube import render_YouTube_Video
 

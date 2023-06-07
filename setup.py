@@ -7,7 +7,7 @@ __version__ = "0.0.2" # update as per your need
 
 REPO_NAME = "IPYNBrenderer"
 AUTHOR_USER_NAME = "SaikumarOfficial"
-SRC_REPO = "IPYNBrenderer"
+SRC_REPO = "IPYNBrendererYT"
 AUTHOR_EMAIL = "sai680513@gmail.com"
 
 setuptools.setup(

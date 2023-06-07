@@ -1,7 +1,7 @@
 from IPython import display
 from ensure import ensure_annotations
-from IPYNBrenderer.custom_exception import InvalidURLException
-from IPYNBrenderer.logger import logging
+from IPYNBrendererYT.custom_exception import InvalidURLException
+from IPYNBrendererYT.logger import logging
 from py_youtube import Data
 
 
